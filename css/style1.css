@@ -1,0 +1,194 @@
+.init img
+{
+margin-top: 20px;
+	float: left;
+	width: 100px;
+	height: 70px;
+	padding-left: 50px;
+}
+.init ul
+{  margin-top: 50px;
+	float: right;
+}
+.init{
+
+
+	
+	width:90%;
+	height: 100px;
+}
+
+.init li{
+display:inline;
+
+padding-right: 10px;
+}
+
+li a
+{
+	text-decoration: none;
+    color:black;
+    font-family:"Lato"
+    font-size: 15px;
+
+}
+ul a:hover
+{
+	text-decoration: none;
+	color:green;
+	font-size: 10px;
+
+	
+}
+.services
+{
+	background: #ebe5e3;
+	width:100%;
+	height: 180px;
+}
+.services .temp
+{
+	font-family:"Lato";
+    font-size: 20px;
+    float: left;
+    padding-left: 50px;
+    letter-spacing: 2px;
+    margin-top: 40px;
+
+}
+.temp li{
+	display:list-item;
+	list-style: none;
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+.services .temp2 
+{   
+	float: right;
+	padding-right: 100px;
+	margin-top: 60px;
+}
+.temp .r
+{
+	color:#9e8282;
+}
+.temp2 li{
+	display:inline;
+	list-style: none;
+	text-decoration: none;
+font-size: 12px;
+padding-right:10px;}
+ 
+.images {
+	margin-top: 60px;
+	width:100%;
+	height:400px;
+	
+} 
+
+.grid_4 img{
+	width:90%;
+
+}
+.grid_4 h2{
+	margin-top:15px;
+	color:#353535 ;
+	letter-spacing: 1px;
+	font-size:18px;
+}
+.grid_4 h3{
+	margin-top:5px;
+	color:#4f4f4f;
+	letter-spacing: 1px;
+	font-size:18px;
+}
+.grid_4 h5{
+	margin-top:5px;
+	color:#6d6c6c;
+	letter-spacing: 1px;
+	font-size:10px;
+}
+.stage4
+{
+	margin-top: 100px;
+	margin:auto;
+	text-align: center;
+	background-color: #ebe5e3;
+
+}
+.stage4 h1{
+	font-size: 25px;
+	letter-spacing: 1px;
+}
+.stage4 h2{
+	font-size: 20px;
+	letter-spacing: 1px;
+	color:#898888;
+}
+.stage5 .p1 h2
+{
+	float:left;
+	font-size: 40px;
+	color: green;
+	padding-right:10px;
+}
+.stage5 .p2 h5
+{   
+	font-size: 20px;
+	
+
+}
+.stage5 .p2 h4
+{  
+	font-size: 12px;
+	line-height: 12px;
+	letter-spacing: 1px;
+	color:#353535;
+}
+.mainpart{
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 100%;
+  height: 400px;
+  background-color:green;
+  
+ 
+}
+.part1{
+	display:inline;
+  float: left;width:50%;
+  margin-left: 10px;
+  margin-right: 10px;
+  background: red;
+}
+
+}
+
+.mainpart .part1{
+	width:50%;
+
+}
+.stage6 .part1 h1
+{
+color: #353535;
+font-size: 20px;
+}
+.stage6 .part1 h2{
+color: #353535;
+font-size: 12px;
+}
+.stage6 .part1 h3{
+color: #353535;
+font-size: 8px;
+}
+.stage6 .part1 a{
+	color: green;
+	font-size: 5px;
+}
+.stage6 .part1 a:hover{
+	color:black;
+}
+
+
+
+

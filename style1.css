@@ -1,0 +1,83 @@
+.init img
+{
+margin-top: 20px;
+	float: left;
+	width: 100px;
+	height: 70px;
+	padding-left: 50px;
+}
+.init ul
+{  margin-top: 50px;
+	float: right;
+}
+.init{
+
+
+	
+	width:90%;
+	height: 100px;
+}
+
+.init li{
+display:inline;
+
+padding-right: 10px;
+}
+
+li a
+{
+	text-decoration: none;
+    color:black;
+    font-family:"Lato"
+    font-size: 10px;
+
+}
+ul a:hover
+{
+	text-decoration: none;
+	color:green;
+	font-size: 15px;
+
+	
+}
+.services
+{
+	background: #ebe5e3;
+	position:absolute;
+    
+	
+	width:100%;
+	height: 150px;
+}
+.services .temp
+{
+	font-family:"Lato";
+    font-size: 20px;
+    float: left;
+    padding-left: 50px;
+    letter-spacing: 2px;
+    margin-top: 40px;
+
+}
+.temp li{
+	display:list-item;
+	list-style: none;
+	text-decoration: none;
+	margin-bottom: 10px;
+}
+.services .temp2 
+{   
+	float: right;
+	padding-right: 100px;
+	margin-top: 60px;
+}
+.temp .r
+{
+	color:#9e8282;
+}
+.temp2 li{
+	display:inline;
+	list-style: none;
+	text-decoration: none;
+font-size: 12px;
+padding-right:10px;}
